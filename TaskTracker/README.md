@@ -2,7 +2,7 @@
 A simple, command-line based task management application written in Java. This tool allows you to add, list, update, and delete tasks, as well as track their progress directly from your terminal.
 #Project URL
 
-Project Url: https://roadmap.sh/projects/task-tracker
+project URL:https://roadmap.sh/projects/task-tracker
 
 Features
 CRUD Operations: Add, list, update, and delete tasks.
